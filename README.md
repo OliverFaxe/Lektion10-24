@@ -25,8 +25,8 @@
     
     && Logical AND
     || Logical OR
-    ! Logical NOT
-    
+    ! Logical NOT ( Inverterar True och False )
+    ?? Nullish Coalescing 
 
 ### If Statements
  En if statement är ett sätt att få applikationen bestämma vilken riktning att gå. Beroende på vilka situationer vi bestämmer. Oftast har en app många situationer i olika kombinationer.
